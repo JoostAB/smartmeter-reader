@@ -1,4 +1,0 @@
-/mnt/d/Projects/PlatformIO/smartmeter-reader/lib/dsmr/dsmr.h:11: warning: Compound DSMR is not documented.
-/mnt/d/Projects/PlatformIO/smartmeter-reader/src/main.cpp:14: warning: Member setup() (function) of file main.cpp is not documented.
-/mnt/d/Projects/PlatformIO/smartmeter-reader/src/main.cpp:18: warning: Member loop() (function) of file main.cpp is not documented.
-/mnt/d/Projects/PlatformIO/smartmeter-reader/lib/dsmr/dsmr.h:14: warning: Member init() (function) of class DSMR is not documented.
