@@ -1,0 +1,1 @@
+/* Some definitions needed for DSMR */
